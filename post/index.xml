@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UX Resources</title>
+    <link>https://kwondosen.github.io/bookshelf/post/index.xml</link>
+    <description>Recent content in Posts on UX Resources</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Dec 2016 16:24:05 -0800</lastBuildDate>
+    <atom:link href="https://kwondosen.github.io/bookshelf/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Web Form Best Practice</title>
+      <link>https://kwondosen.github.io/bookshelf/post/Web-Form-Best-Practice/</link>
+      <pubDate>Wed, 28 Dec 2016 16:24:05 -0800</pubDate>
+      
+      <guid>https://kwondosen.github.io/bookshelf/post/Web-Form-Best-Practice/</guid>
+      <description>&lt;p&gt;People who use your app or site have a particular goal. Often the one thing that is standing between the user and his goal is a form. Because forms still remain the one of the most important type of interaction for users on the web and in the apps. In fact, forms are often considered to be the final step of the journey to the completion of goals.&lt;/p&gt;
+
+&lt;p&gt;Forms are just a means to an end. Users should be able to complete forms quickly and without confusion.
+In this article, you’ll see practical guidelines that have been crafted from usability testing, field testing, eye tracking and actual complaints made by disgruntled users.&lt;/p&gt;
+
+&lt;p&gt;The Components Of Forms
+The typical form has following five components:&lt;/p&gt;
+
+&lt;p&gt;Structure. It includes ordering for fields, appearance on the page and logical connections between multiple fields.
+Input fields. They include text fields, password fields, check boxes, radio buttons, sliders and any other field designed for user input.
+Field labels. They tell users what the corresponding input fields mean.
+Action buttons. When user presses the button, the action is performed (such as submitting the data).
+Feedback. User understands the result of the input by a feedback. Most apps or sites use messages as a form of feedback. Messages notify the user about result, they can be positive (indicating that the form was submitted successfully) or negative (“The number you’ve provided is incorrect”).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Microinteractions</title>
+      <link>https://kwondosen.github.io/bookshelf/post/Microinteractions/</link>
+      <pubDate>Wed, 28 Dec 2016 16:16:54 -0800</pubDate>
+      
+      <guid>https://kwondosen.github.io/bookshelf/post/Microinteractions/</guid>
+      <description>&lt;p&gt;The best products do two things well: features and details. Features are what draw people to your product. Details are what keep them there. And details are what actually make our app stand out from our competition.
+Microinteractions are one of the best techniques for giving delightful feedback.
+All roads lead to a human-centered design approach, where the user is the prime focus. Often considered accessory or secondary, microinteractions actually create a feeling of well-being once they are discovered by users. As a designer, recognizing the invisibility of microinteractions is just as important as designing them. You have to create something that feels human and accomplishes a task.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
